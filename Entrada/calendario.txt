@@ -1,0 +1,43 @@
+# Calendário de Conteúdo – Canal de Ciências de Dados
+
+Postagens semanais: **Segunda (Conceito)**, **Quinta (Prática com Estatística)**, **Domingo (Tendência/Reflexão)**
+
+---
+
+## Semana 1 – Mercado Digital
+
+| Dia       | Tema     | Título sugerido                                       | Palavras-chave                          |
+|-----------|----------|--------------------------------------------------------|------------------------------------------|
+| Segunda   | Conceito | Modelos Estatísticos: O que São e Para que Servem?     | estatística, ML, dados, negócios         |
+| Quinta    | Prática  | Distribuição Normal e Conversão em Landing Pages       | estatística, conversão, A/B test, funil  |
+| Domingo   | Tendência| Como a IA Está Mudando o Mercado Digital?              | IA, dropshipping, automação, futuro      |
+
+---
+
+## Semana 2 – Finanças e Data Science
+
+| Dia       | Tema     | Título sugerido                                       | Palavras-chave                          |
+|-----------|----------|--------------------------------------------------------|------------------------------------------|
+| Segunda   | Conceito | O Papel dos Dados nas Finanças Pessoais e Fintechs     | fintech, bancos digitais, dados          |
+| Quinta    | Prática  | Análise de Risco com Desvio Padrão e Correlação        | finanças, estatística, risco, Python     |
+| Domingo   | Tendência| IA e o Futuro dos Investimentos Automatizados          | roboadvisor, IA, investimento, cripto    |
+
+---
+
+## Semana 3 – Redes Sociais e Algoritmos
+
+| Dia       | Tema     | Título sugerido                                       | Palavras-chave                          |
+|-----------|----------|--------------------------------------------------------|------------------------------------------|
+| Segunda   | Conceito | Como Funciona o Algoritmo das Redes Sociais?           | feed, algoritmo, recomendação            |
+| Quinta    | Prática  | Análise de Engajamento com Métricas Estatísticas       | média, mediana, alcance, engajamento     |
+| Domingo   | Tendência| Como a IA Está Transformando Criadores de Conteúdo     | IA, redes sociais, marketing              |
+
+---
+
+## Semana 4 – Saúde e Dados
+
+| Dia       | Tema     | Título sugerido                                       | Palavras-chave                          |
+|-----------|----------|--------------------------------------------------------|------------------------------------------|
+| Segunda   | Conceito | Data Science na Saúde: O Que Você Precisa Saber        | dados clínicos, saúde digital, BI        |
+| Quinta    | Prática  | Estatísticas de Treino: Média Calórica e Progresso     | treino, saúde, calorias, estatística     |
+| Domingo   | Tendência| Wearables e IA: O Futuro do Monitoramento de Saúde     | IA médica, relógios inteligentes, dados  |
